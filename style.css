@@ -1,0 +1,218 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width:940px;
+  margin: auto;
+}
+.header{
+  background: #ddd;
+  width:100%;
+  height:40px;
+}
+.headerInfo{
+  background: #4888;
+  height:30px;
+}
+.navigation{
+  background: white;
+  padding: 30px 0px;
+}
+.nvgWrp{
+  overflow: hidden;
+}
+.logo{
+  background: #aaa;
+  width:200px;
+  height:80px;
+  float: left;
+}
+.menu{
+  background: #aaa;
+  width:500px;
+  height: 80px;
+  float: right;
+}
+.slider{
+  background: #ddd;
+  width:100%;
+  height:300px;
+  padding-bottom:50px;
+}
+.sliderIng{
+  background: green;
+  width:100%;
+  height:300px;
+}
+.service{
+  background:white;
+  padding: 50px 0px;
+}
+.serviceWrp{
+  overflow: hidden;
+}
+.singlebox{
+  background: #ff5300;
+  width:225px;
+  height:320px;
+  float:left;
+  margin-right:13px;
+}
+.singlebox:last-child {
+  margin-right:0px;
+}
+.contact{
+  background:#ddd;
+  height:250px;
+  padding: 50px 0px;
+}
+.contactWrp{
+  overflow:hidden;
+}
+.cntImg{
+  background:darkblue;
+  width:650px;
+  height:250px;
+  float:left;
+}
+.cntInfo{
+  background:#D358F7;
+  width:290px;
+  height: 250px;
+  float:right;
+}
+.plan{
+  background:white;
+  padding: 50px 0px;
+}
+.planWrp{
+  overflow:hidden;
+}
+.singlePlan{
+  background:#5882FA;
+  width:302px;
+  height:380px;
+  float: left;
+  margin-right:16px;
+}
+.singlePlan:last-child{
+  margin-right:0px;
+}
+.footer{
+  height:80px;
+  background:#ddd;
+}
+.footerInfo{
+  background:#424242;
+  height: 80px;
+}
+
+/*html document_2 css start*/
+
+.heading1{
+  width:400px;
+  margin: auto;
+  padding: 10px;
+}
+.header2{
+  background: #ddd;
+  width:100%;
+  height:40px;
+}
+.navber{
+  overflow: hidden;
+  background: orange;
+  height:80px;
+}
+.slidWrp{
+overflow:hidden;
+}
+.slidAtc{
+  background: red;
+  width:645px;
+  height: 145px;
+  float: left;
+  margin-bottom:10px;
+}
+.slidDic{
+  background: red;
+  width:645px;
+  height: 145px;
+  float: left;
+}
+.slidInfo{
+  background:#518CA3;
+  width:290px;
+  height:300px;
+  float:right;
+  margin-top:0px;
+}
+.gallery{
+  overflow: hidden;
+}
+.gallerybox{
+  background: #6754B7;
+  width:225px;
+  height:200px;
+  float:left;
+  margin-right:13px;
+  margin-bottom:10px;
+}
+.gallerybox:last-child {
+  margin-right:0px;
+}
+.gallerybox:nth-child(4){
+  margin-right:0px;
+}
+.gallerybox:nth-child(5){
+  margin-bottom:0px;
+}
+.gallerybox:nth-child(6){
+  margin-bottom:0px;
+}
+.gallerybox:nth-child(7){
+  margin-bottom:0px;
+}
+.gallerybox:nth-child(8){
+  margin-bottom:0px;
+}
+.aboute{
+  background:#ddd;
+  height:200px;
+  padding: 50px 0px;
+}
+.abouteWrp{
+  overflow:hidden;
+}
+.abouteInfo{
+  background:#ff5300;
+  width:465px;
+  height:200px;
+  float:left;
+  margin-right:10px;
+}
+.abouteInfo:last-child{
+  margin-right:0px;
+}
+.plan{
+  background:white;
+  padding: 50px 0px;
+}
+.planWrp{
+  overflow:hidden;
+}
+.planbox{
+  background:#2694B9;
+  width:302px;
+  height:380px;
+  float: left;
+  margin-right:16px;
+}
+.planbox:last-child{
+  margin-right:0px;
+}
+.footer{
+  height:80px;
+  background:#3A5764;
+}
